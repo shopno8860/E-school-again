@@ -11,7 +11,7 @@
     border-radius: 33px;
     align-items: center;
 }
-.col-md-6 img{
+.col-sm-6 img{
     width: 100%;
 }
 .row{
@@ -27,12 +27,12 @@
 }
 .col{
     width: 270px;
-    height: 270px;
+    height: 280px;
     border:none;
-    margin: 10px;
+    margin: 8px;
     border-radius: 8px;
     box-shadow: 10px 10px 20px lightgray;
-    padding: 60px;
+    padding: 55px;
     background-color: #F8FFFB;
     text-align: center;
     position: relative;
@@ -50,7 +50,7 @@
 .btn1{
     padding: 8px 28px;
 }
-.col-md-4{
+.col-sm-4{
     height: 460px;
     border: none;
     box-shadow: 4px 4px 10px lightgray;
@@ -59,7 +59,7 @@
     position: relative;
 
 }
-.col-md-4 img{
+.col-sm-4 img{
     width: 95%;
     height: 234px;
     margin: 25px 10px;
